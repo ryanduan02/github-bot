@@ -1,1 +1,1 @@
-# github-bot
+# discord-bot
