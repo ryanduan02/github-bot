@@ -81,10 +81,3 @@ For macOS-native scheduling prefer a `launchd` plist that runs the script at the
 
 **License**
 This project is licensed under the Apache License 2.0 (see `LICENSE`).
-
-**Next steps / suggestions**
-- Add a `requirements.txt` or `pyproject.toml` for reproducible Python installs.
-- Add a `Makefile` or simple `scripts/` folder with a `build` and `install` task to simplify building and scheduling.
-
-If you'd like, I can add a `requirements.txt`, a `Makefile` with the `swiftc` build command, and a sample `launchd` plist for macOS scheduling.
-# discord-bot
